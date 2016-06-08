@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:37:06.504278
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:43
 #+TITLE: 金剛摧碎陀羅尼
 #+PROPERTY: CBETA_ID T21n1416
 #+PROPERTY: ID KR6j0648
