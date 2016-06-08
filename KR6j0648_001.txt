@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:37:06.504278
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:43
 #+TITLE: 金剛摧碎陀羅尼
 #+PROPERTY: CBETA_ID T21n1416
 #+PROPERTY: ID KR6j0648
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1416
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0648_T_001-0931b> 
 #+PROPERTY: JUAN 1
 ¶
-No.1416¶
-
- 金剛摧碎陀羅尼¶
+No. 1416¶
+金剛摧碎陀羅尼¶
 ¶
 宋契丹國師中天竺摩竭陀國¶
 三藏法師慈賢譯¶
